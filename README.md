@@ -12,3 +12,8 @@ Jailbreak related tools and libs for Pythonista for iOS.
 ## Who should use this
 
 * Power users that know what they are doing.
+
+## Folders
+
+* jb_libs is the base module for the libraries
+* tools is where utilities scripts are
